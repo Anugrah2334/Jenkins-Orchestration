@@ -110,8 +110,8 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
      - Scroll to "Pipeline" section
      - Select "Pipeline script from SCM"
      - Select "Git" as SCM
-     - Enter repository URL: `https://github.com/TarakKatoch/Jenkins-Orchestration.git`
-     - Enter branch specifier: `*/master`
+     - Enter repository URL: `https://github.com/Anugrah2334/Jenkins-Orchestration.git`
+     - Enter branch specifier: `*/main`
      - Click "Save"
 
 <div align="center">
